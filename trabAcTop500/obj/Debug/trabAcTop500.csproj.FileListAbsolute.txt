@@ -1,0 +1,14 @@
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\trabAcTop500.exe.config
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\trabAcTop500.exe
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\trabAcTop500.pdb
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.csprojAssemblyReference.cache
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.Properties.Resources.resources
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.csproj.GenerateResource.cache
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.csproj.CoreCompileInputs.cache
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.exe
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.pdb
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\MetroFramework.Design.dll
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\MetroFramework.dll
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\bin\Debug\MetroFramework.Fonts.dll
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.csproj.CopyComplete
+D:\Exercicios Programação\puc\exerciciosPuc\trabAcTop500\trabAcTop500\obj\Debug\trabAcTop500.Form1.resources
